@@ -4,5 +4,3 @@ def FirstReverse(str)
   return str
   
 end
-
-FirstReverse(STDIN.gets)  
